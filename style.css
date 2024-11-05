@@ -1,4 +1,6 @@
 body {
+    display: contents;
+    text-align: center;
     size: 100%;
     background-color: turquoise
 }
